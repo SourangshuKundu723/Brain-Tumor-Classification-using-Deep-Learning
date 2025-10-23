@@ -1,5 +1,16 @@
 # 🧠 Medical Image Analysis using Deep Learning (Brain Tumor Detection)
 
+<div align="center">
+
+![Repo Views](https://komarev.com/ghpvc/?username=SourangshuKundu723&repo=Brain-Tumor-Classification-using-Deep-Learning&color=blue&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/SourangshuKundu723/Brain-Tumor-Classification-using-Deep-Learning)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aJplzvtxr-RN08TLUsebfw7l6qNLTZhN?usp=sharing)
+
+</div>
+
 This project focuses on **Brain Tumor Detection** from MRI images using **Deep Learning** techniques built with **TensorFlow** and **Keras**.  
 It leverages **MobileNet** for efficient image classification, making it suitable for both research and deployment.
 
