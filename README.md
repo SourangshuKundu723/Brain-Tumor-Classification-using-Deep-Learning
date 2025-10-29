@@ -4,6 +4,7 @@
 
 ![Repo Views](https://komarev.com/ghpvc/?username=SourangshuKundu723&repo=Brain-Tumor-Classification-using-Deep-Learning&color=blue&style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/SourangshuKundu723/Brain-Tumor-Classification-using-Deep-Learning)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red.svg)
