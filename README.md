@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=28&duration=1500&pause=600&color=FF6F00&center=true&vCenter=true&width=900&lines=🚧+Work+In+Progress;🧠+Brain+Tumor+Classification+Model+Training..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=28&duration=1500&pause=600&color=FF6F00&center=true&vCenter=true&width=900&lines=🚧+Work+In+Progress+🚧;🧠+Brain+Tumor+Classification+Model+Training..." />
 <br>
 <br>
 
